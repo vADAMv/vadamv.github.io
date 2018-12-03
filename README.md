@@ -1,2 +1,0 @@
-# vadamv.github.io
-Хостинг
